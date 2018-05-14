@@ -1,10 +1,3 @@
-/*
-Team Arrrrr - Calvin Aw and Kevin Feng
-APCS2 pd08
-HW 46 -- Arrr, There Be Priorities Here Matey
-2018 - 05 - 09
-*/
-
 import java.util.ArrayList;
 
 public class ArrayPriorityQueue implements PriorityQueue{
