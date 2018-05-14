@@ -1,6 +1,7 @@
 # Latecomers_Aw-C_Lin-K
 
 Run time of methods:
+
 `public void add(String x){}`: O(n)
 
 We relied on the ArrayList implementation of add
